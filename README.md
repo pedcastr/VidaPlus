@@ -83,6 +83,7 @@ src/
 ├── types/           # Definições de Tipos TypeScript (Interfaces User, Consulta...)
 └── theme/           # Configuração de Cores (Paleta Médica Personalizada)
 App.tsx              # Ponto de entrada
+```
 
 ## 🚀 Como Executar
 
